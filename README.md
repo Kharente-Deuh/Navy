@@ -1,12 +1,12 @@
 # Navy
 
-##Authorized functions:
+## Authorized functions:
 open, close, read, write, lseek, malloc, free, getpid, kill, signal,
 sigaction, sigemptyset, setcontext, getcontext, usleep, nanosleep, pause
 
 You are allowed to use one (and only one) global variable, if you can justify it
 
-##Subject
+## Subject
 
 You all know the very famous Battleship game. Well, I hope
 so.
