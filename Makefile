@@ -132,8 +132,8 @@ fclean: clean
 	@$(LIBPRTF) fclean
 	@$(LIBPRR) fclean
 	@echo "\033[1m\033[34mTroncy no Jutsu: \033[33mEFUKURINO ! ⋋_⋌\n"
-	@echo "                  $(G)    __\n" \
-	"                    / $(R)*$(G)_)  \033[36m?\n"\
+	@echo "                  $(G)    __       $(C)Hello !\n" \
+	"                    $(G)/ $(R)*$(G)_)\n"\
 	"         $(G)_.----. _ /../\n"\
 	"       /............./\n"\
 	"   __/..(...|.(...|\n"\
